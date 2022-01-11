@@ -11,4 +11,4 @@ you can click "Watermark" button. To apply a embossment, first click the "Create
 Then choose a Brightness Level between 0 and 1. 
 (0:Lowest Brightness 1:Full Brightness). 
 Click "Apply Embossment" button. 
-To exit the GUI, click the EXIT button below.');
+To exit the GUI, click the EXIT button below.
